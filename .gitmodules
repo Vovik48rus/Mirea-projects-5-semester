@@ -1,0 +1,15 @@
+[submodule "Circuit design of computer system devices"]
+	path = Circuit design of computer system devices
+	url = https://github.com/Vovik48rus/Circuit-design-of-computer-system-devices-projects-5-semester-Mirea.git
+[submodule "Разработка баз данных"]
+	path = Разработка баз данных
+	url = https://github.com/Vovik48rus/Database-development-5-semester-Mirea.git
+[submodule "Системы хранения данных"]
+	path = Системы хранения данных
+	url = https://github.com/Vovik48rus/Data-storage-systems-5-semester-Mirea.git
+[submodule "Моделирование бизнес-процессов"]
+	path = Моделирование бизнес-процессов
+	url = https://github.com/Vovik48rus/Business-process-modeling-5-semester-Mirea.git
+[submodule "Виртуализация вычислительной инфраструктуры"]
+	path = Виртуализация вычислительной инфраструктуры
+	url = https://github.com/Vovik48rus/Virtualization-of-computing-infrastructure-5-semester-Mirea.git
