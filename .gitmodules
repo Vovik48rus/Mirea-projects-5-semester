@@ -13,3 +13,6 @@
 [submodule "Виртуализация вычислительной инфраструктуры"]
 	path = Виртуализация вычислительной инфраструктуры
 	url = https://github.com/Vovik48rus/Virtualization-of-computing-infrastructure-5-semester-Mirea.git
+[submodule "Схемотехника устройств компьютерных систем"]
+	path = Схемотехника устройств компьютерных систем
+	url = https://github.com/Vovik48rus/Circuit-design-of-computer-system-devices-5-semester-Mirea.git
