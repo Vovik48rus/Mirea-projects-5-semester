@@ -16,3 +16,6 @@
 [submodule "Схемотехника устройств компьютерных систем"]
 	path = Схемотехника устройств компьютерных систем
 	url = https://github.com/Vovik48rus/Circuit-design-of-computer-system-devices-5-semester-Mirea.git
+[submodule "Техническое обслуживание программно-аппаратных комплексов"]
+	path = Техническое обслуживание программно-аппаратных комплексов
+	url = https://github.com/Vovik48rus/Maintenance-of-software-and-hardware-complexes-5-semester-.git
