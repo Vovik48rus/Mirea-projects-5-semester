@@ -19,3 +19,6 @@
 [submodule "Техническое обслуживание программно-аппаратных комплексов"]
 	path = Техническое обслуживание программно-аппаратных комплексов
 	url = https://github.com/Vovik48rus/Maintenance-of-software-and-hardware-complexes-5-semester-.git
+[submodule "Технологические основы интернета вещей"]
+	path = Технологические основы интернета вещей
+	url = https://github.com/Vovik48rus/Technological-foundations-of-the-Internet-of-Things-5-semester-Mirea.git
